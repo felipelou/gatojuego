@@ -1,6 +1,6 @@
 
 import React from 'react';
-import Board from './components/Tablero';
+import Board from './Componentes/Tablero';
 
 function App() {
   return (
